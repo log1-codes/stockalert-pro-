@@ -106,4 +106,4 @@ If you encounter any issues or have questions:
 
 *Built with ❤ for shop owners who want to stay ahead of their inventory needs!*
 
-Last updated: [19 August 2025s]
+Last updated: [19 August 2025]
